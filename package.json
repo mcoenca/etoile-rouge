@@ -1,0 +1,11 @@
+{
+  "name": "etoile-rouge",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "resemblejs": "^2.2.2"
+  }
+}

@@ -1,0 +1,4 @@
+/* CSS declarations go here */
+.file-uploaded, .file-diffed {
+  max-width: 300px;
+}
